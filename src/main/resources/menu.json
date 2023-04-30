@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Spaghetti Bolognese",
+    "desc": "Traditional Italian pasta with meat sauce",
+    "price": 12.99
+  },
+  {
+    "title": "Caesar Salad",
+    "desc": "Fresh romaine lettuce with grilled chicken, Parmesan cheese, and Caesar dressing",
+    "price": 8.99
+  },
+  {
+    "title": "Margherita Pizza",
+    "desc": "Classic Neapolitan pizza with tomato sauce, mozzarella, and basil",
+    "price": 10.99
+  },
+  {
+    "title": "Grilled Salmon",
+    "desc": "Fresh Atlantic salmon fillet with steamed vegetables and lemon butter sauce",
+    "price": 16.99
+  }
+]

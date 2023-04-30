@@ -1,0 +1,22 @@
+{
+  "name": "Moja Restauracja",
+  "address": "ul. Przykładowa 1, 00-000 Warszawa",
+  "phone": "+48 123 456 789",
+  "menu": [
+    {
+      "title": "Pizza Margherita",
+      "desc": "Klasyczna pizza z serem mozzarella i sosem pomidorowym",
+      "price": 25.99
+    },
+    {
+      "title": "Spaghetti Bolognese",
+      "desc": "Makaron spaghetti z sosem mięsnym",
+      "price": 29.99
+    },
+    {
+      "title": "Sałatka grecka",
+      "desc": "Sałatka z pomidorami, ogórkiem, cebulą, feta, oliwkami i sosem winegret",
+      "price": 19.99
+    }
+  ]
+}
