@@ -5,6 +5,7 @@ public class MenuPosition {
     private String title;
     private String desc;
     private Double price;
+    
 
     public MenuPosition() {}
 
