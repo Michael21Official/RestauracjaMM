@@ -2,6 +2,7 @@ package dev.Michael21Official;
 
 public class MenuPosition {
 
+    
     private String title;
     private String desc;
     private Double price;
